@@ -85,7 +85,6 @@ function buttonClickHandler(event) {
                     break;
                 case 'equal':
                     evaluate();
-                    currentOperand = 0;
                     break;
             }
             break;
